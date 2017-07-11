@@ -1,7 +1,7 @@
 # webcam_demo
 opencv.contrib.text's webcam demo project. OCR from webcam.
 
-# Building
+# Build
 
 ## Windows
 
